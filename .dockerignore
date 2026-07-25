@@ -1,0 +1,10 @@
+node_modules
+.env
+.git
+dist
+.gitignore
+README.md
+.bolt
+*.log
+.DS_Store
+Thumbs.db
