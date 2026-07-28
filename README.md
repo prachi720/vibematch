@@ -236,7 +236,7 @@ Generate Documentation
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/VibeMatch.git
+git clone https://github.com/prachi720/vibematch.git
 ```
 
 ---
